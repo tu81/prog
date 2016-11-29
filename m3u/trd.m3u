@@ -1,4 +1,494 @@
-#EXTINF:-1,------- Turkish ----------
+#EXTM3U
+#EXTINF:-1,* * * * * * * * * * Deutschland * * * * * * * * * *
+ #EXTINF:-1,DE: Universal HD
+http://sonic-iptv.com:2500/live/lee/lee/914.ts
+#EXTINF:-1,DE: TNT SERIE
+http://sonic-iptv.com:2500/live/lee/lee/916.ts
+#EXTINF:-1,DE: TNT Glitz HD
+http://sonic-iptv.com:2500/live/lee/lee/913.ts
+#EXTINF:-1,DE: TNT FILM
+http://sonic-iptv.com:2500/live/lee/lee/915.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://sonic-iptv.com:2500/live/lee/lee/912.ts
+#EXTINF:-1,DE: SUPER RTL
+http://sonic-iptv.com:2500/live/lee/lee/921.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://sonic-iptv.com:2500/live/lee/lee/911.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://sonic-iptv.com:2500/live/lee/lee/923.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://sonic-iptv.com:2500/live/lee/lee/910.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://sonic-iptv.com:2500/live/lee/lee/924.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://sonic-iptv.com:2500/live/lee/lee/909.ts
+#EXTINF:-1,DE: Sky MGM
+http://sonic-iptv.com:2500/live/lee/lee/917.ts
+#EXTINF:-1,DE: Sky Germany Comedy
+http://sonic-iptv.com:2500/live/lee/lee/884.ts
+#EXTINF:-1,DE: Sky Germany Cinema  24
+http://sonic-iptv.com:2500/live/lee/lee/886.ts
+#EXTINF:-1,DE: Sky Germany Cinema  1
+http://sonic-iptv.com:2500/live/lee/lee/885.ts
+#EXTINF:-1,DE: Sky Germany Atlantic
+http://sonic-iptv.com:2500/live/lee/lee/882.ts
+#EXTINF:-1,DE: Sky Germany Action
+http://sonic-iptv.com:2500/live/lee/lee/881.ts
+#EXTINF:-1,DE: Sky Germany 13 Street HD
+http://sonic-iptv.com:2500/live/lee/lee/887.ts
+#EXTINF:-1,DE: Sky Gemany Cinema
+http://sonic-iptv.com:2500/live/lee/lee/883.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://sonic-iptv.com:2500/live/lee/lee/908.ts
+#EXTINF:-1,DE: Sky Bundesliga HD
+http://sonic-iptv.com:2500/live/lee/lee/922.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://sonic-iptv.com:2500/live/lee/lee/907.ts
+#EXTINF:-1,DE: SAT 1 GOLD
+http://sonic-iptv.com:2500/live/lee/lee/920.ts
+#EXTINF:-1,DE: RTL PASSION
+http://sonic-iptv.com:2500/live/lee/lee/919.ts
+#EXTINF:-1,DE: RTL NITRO
+http://sonic-iptv.com:2500/live/lee/lee/918.ts
+#EXTINF:-1,DE: RTL Living
+http://sonic-iptv.com:2500/live/lee/lee/906.ts
+#EXTINF:-1,DE: RTL 2
+http://sonic-iptv.com:2500/live/lee/lee/925.ts
+#EXTINF:-1,DE: Prosieben
+http://sonic-iptv.com:2500/live/lee/lee/905.ts
+#EXTINF:-1,DE: Pro 7 Max
+http://sonic-iptv.com:2500/live/lee/lee/904.ts
+#EXTINF:-1,DE: Nick Jr
+http://sonic-iptv.com:2500/live/lee/lee/903.ts
+#EXTINF:-1,DE: Nat Geo HD
+http://sonic-iptv.com:2500/live/lee/lee/902.ts
+#EXTINF:-1,DE: Nat Geo
+http://sonic-iptv.com:2500/live/lee/lee/901.ts
+#EXTINF:-1,DE: Mgm
+http://sonic-iptv.com:2500/live/lee/lee/880.ts
+#EXTINF:-1,DE: Junior
+http://sonic-iptv.com:2500/live/lee/lee/900.ts
+#EXTINF:-1,DE: Heimakanal
+http://sonic-iptv.com:2500/live/lee/lee/899.ts
+#EXTINF:-1,DE: E! Entertainm. HD
+http://sonic-iptv.com:2500/live/lee/lee/898.ts
+#EXTINF:-1,DE: Disneycinemagic
+http://sonic-iptv.com:2500/live/lee/lee/897.ts
+#EXTINF:-1,DE: Disney XD
+http://sonic-iptv.com:2500/live/lee/lee/896.ts
+#EXTINF:-1,DE: Disney Junior
+http://sonic-iptv.com:2500/live/lee/lee/895.ts
+#EXTINF:-1,DE: Discovery HD
+http://sonic-iptv.com:2500/live/lee/lee/894.ts
+#EXTINF:-1,DE: Discovery
+http://sonic-iptv.com:2500/live/lee/lee/893.ts
+#EXTINF:-1,DE: Das Herste
+http://sonic-iptv.com:2500/live/lee/lee/892.ts
+#EXTINF:-1,DE: Cartoon Network
+http://sonic-iptv.com:2500/live/lee/lee/891.ts
+#EXTINF:-1,DE: Boomerang
+http://sonic-iptv.com:2500/live/lee/lee/890.ts
+#EXTINF:-1,DE: Action HD
+http://sonic-iptv.com:2500/live/lee/lee/889.ts
+#EXTINF:-1,DE: 13TH Street
+http://sonic-iptv.com:2500/live/lee/lee/888.ts
+#EXTINF:-1,*~*~*~*~* GERMANY *~*~*~*~*
+http://gogobox.eu:8000/live/Gary/Gary/286.ts
+#EXTINF:-1,|----{ Entertainment DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5462.ts
+#EXTINF:-1,ZDF DE
+http://gogobox.eu:8000/live/Gary/Gary/2656.ts
+#EXTINF:-1,VOX DE
+http://gogobox.eu:8000/live/Gary/Gary/2641.ts
+#EXTINF:-1,SAT1 DE
+http://gogobox.eu:8000/live/Gary/Gary/2637.ts
+#EXTINF:-1,AE DE
+http://gogobox.eu:8000/live/Gary/Gary/5468.ts
+#EXTINF:-1,SAT1 GOLD DE
+http://gogobox.eu:8000/live/Gary/Gary/2643.ts
+#EXTINF:-1,TLC DE
+http://gogobox.eu:8000/live/Gary/Gary/5483.ts
+#EXTINF:-1,MGM HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5480.ts
+#EXTINF:-1,ORF 1 DE
+http://gogobox.eu:8000/live/Gary/Gary/2661.ts
+#EXTINF:-1,ORF 2 DE
+http://gogobox.eu:8000/live/Gary/Gary/2662.ts
+#EXTINF:-1,Jukebox DE
+http://gogobox.eu:8000/live/Gary/Gary/5470.ts
+#EXTINF:-1,RTL DE
+http://gogobox.eu:8000/live/Gary/Gary/2638.ts
+#EXTINF:-1,RTL 2 DE
+http://gogobox.eu:8000/live/Gary/Gary/2639.ts
+#EXTINF:-1,RTL PASSION DE
+http://gogobox.eu:8000/live/Gary/Gary/2640.ts
+#EXTINF:-1,RTL Nitro HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2649.ts
+#EXTINF:-1,RTL Living HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2650.ts
+#EXTINF:-1,RTL Crime HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2651.ts
+#EXTINF:-1,FOX DE
+http://gogobox.eu:8000/live/Gary/Gary/4204.ts
+#EXTINF:-1,TNT SERIE DE
+http://gogobox.eu:8000/live/Gary/Gary/2664.ts
+#EXTINF:-1,TNT FILM DE
+http://gogobox.eu:8000/live/Gary/Gary/2665.ts
+#EXTINF:-1,TNT DE
+http://gogobox.eu:8000/live/Gary/Gary/2663.ts
+#EXTINF:-1,SYFY DE
+http://gogobox.eu:8000/live/Gary/Gary/2658.ts
+#EXTINF:-1,Spiegel Geschichte DE
+http://gogobox.eu:8000/live/Gary/Gary/2654.ts
+#EXTINF:-1,Sony Tv DE
+http://gogobox.eu:8000/live/Gary/Gary/2655.ts
+#EXTINF:-1,Romance TV HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2652.ts
+#EXTINF:-1,Prosieben Max HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2647.ts
+#EXTINF:-1,PROSIEBEN DE
+http://gogobox.eu:8000/live/Gary/Gary/2642.ts
+#EXTINF:-1,PHOENIX DE
+http://gogobox.eu:8000/live/Gary/Gary/2644.ts
+#EXTINF:-1,KINOWELT DE
+http://gogobox.eu:8000/live/Gary/Gary/2659.ts
+#EXTINF:-1,Kabel Eins DE
+http://gogobox.eu:8000/live/Gary/Gary/2666.ts
+#EXTINF:-1,EINS PLUS DE
+http://gogobox.eu:8000/live/Gary/Gary/2645.ts
+#EXTINF:-1,EINS FESTIVAL DE
+http://gogobox.eu:8000/live/Gary/Gary/2646.ts
+#EXTINF:-1,DMAX DE
+http://gogobox.eu:8000/live/Gary/Gary/2657.ts
+#EXTINF:-1,3SAT DE
+http://gogobox.eu:8000/live/Gary/Gary/2660.ts
+#EXTINF:-1,WDR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1060.ts
+#EXTINF:-1,TAGESSCHAU 24 DE
+http://gogobox.eu:8000/live/Gary/Gary/1068.ts
+#EXTINF:-1,SWR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1061.ts
+#EXTINF:-1,SR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1062.ts
+#EXTINF:-1,RBB HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1063.ts
+#EXTINF:-1,NDR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1064.ts
+#EXTINF:-1,MDR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1065.ts
+#EXTINF:-1,HR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1066.ts
+#EXTINF:-1,DAS ERSTE DE
+http://gogobox.eu:8000/live/Gary/Gary/1059.ts
+#EXTINF:-1,BR HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1067.ts
+#EXTINF:-1,ARTE DE
+http://gogobox.eu:8000/live/Gary/Gary/1058.ts
+#EXTINF:-1,EuroNews DE
+http://gogobox.eu:8000/live/Gary/Gary/5484.ts
+#EXTINF:-1,|----{ Kids DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5460.ts
+#EXTINF:-1,Nickelodeon DE
+http://gogobox.eu:8000/live/Gary/Gary/4199.ts
+#EXTINF:-1,DISNEY JUNIOR DE
+http://gogobox.eu:8000/live/Gary/Gary/5474.ts
+#EXTINF:-1,Disney Cinemagic HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5478.ts
+#EXTINF:-1,Disney Channel DE
+http://gogobox.eu:8000/live/Gary/Gary/4202.ts
+#EXTINF:-1,DISNEY XD DE
+http://gogobox.eu:8000/live/Gary/Gary/4200.ts
+#EXTINF:-1,|----{ Documentaries DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5458.ts
+#EXTINF:-1,DE,Animal Planet HD
+http://gogobox.eu:8000/live/Gary/Gary/5493.ts
+#EXTINF:-1,Planet HD DE
+http://gogobox.eu:8000/live/Gary/Gary/2653.ts
+#EXTINF:-1,Discovery HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1057.ts
+#EXTINF:-1,NatGeo Wild HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1056.ts
+#EXTINF:-1,National Geographic HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5476.ts
+#EXTINF:-1,HISTORY CHANNEL DE
+http://gogobox.eu:8000/live/Gary/Gary/5477.ts
+#EXTINF:-1,|----{ Sports DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5461.ts
+#EXTINF:-1,Sky Sport HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1054.ts
+#EXTINF:-1,Sky Sport HD 1
+http://gogobox.eu:8000/live/Gary/Gary/1830.ts
+#EXTINF:-1,DE:Sky Sport HD 1
+http://gogobox.eu:8000/live/Gary/Gary/280.ts
+#EXTINF:-1,Sky Sport News HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5488.ts
+#EXTINF:-1,Sky Bundesliga HD 1 DE
+http://gogobox.eu:8000/live/Gary/Gary/5485.ts
+#EXTINF:-1,Sky Sport HD 2
+http://gogobox.eu:8000/live/Gary/Gary/1831.ts
+#EXTINF:-1,Sky Sport US HD
+http://gogobox.eu:8000/live/Gary/Gary/1832.ts
+#EXTINF:-1,Eurosport 1 DE
+http://gogobox.eu:8000/live/Gary/Gary/4201.ts
+#EXTINF:-1,|----{ Cinema DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5463.ts
+#EXTINF:-1,Sky Hits HD
+http://gogobox.eu:8000/live/Gary/Gary/1827.ts
+#EXTINF:-1,Sky Cinema 1 HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1824.ts
+#EXTINF:-1,Sky Cinema HD
+http://gogobox.eu:8000/live/Gary/Gary/1822.ts
+#EXTINF:-1,Sky Cinema HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1055.ts
+#EXTINF:-1,DE:Sky Cinema HD
+http://gogobox.eu:8000/live/Gary/Gary/283.ts
+#EXTINF:-1,Sky Comedy DE
+http://gogobox.eu:8000/live/Gary/Gary/1828.ts
+#EXTINF:-1,Sky Cinema 24 DE
+http://gogobox.eu:8000/live/Gary/Gary/1823.ts
+#EXTINF:-1,Sky Action HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1826.ts
+#EXTINF:-1,DE:Sky Action HD
+http://gogobox.eu:8000/live/Gary/Gary/285.ts
+#EXTINF:-1,Sky Atlantic HD DE
+http://gogobox.eu:8000/live/Gary/Gary/1825.ts
+#EXTINF:-1,SKY Atlantic DE
+http://gogobox.eu:8000/live/Gary/Gary/2648.ts
+#EXTINF:-1,Sky Universal HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5472.ts
+#EXTINF:-1,Sky KinoWelt DE
+http://gogobox.eu:8000/live/Gary/Gary/5469.ts
+#EXTINF:-1,SKY KRIMI DE
+http://gogobox.eu:8000/live/Gary/Gary/5482.ts
+#EXTINF:-1,SKY Emotion HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5479.ts
+#EXTINF:-1,Sky AXN HD DE
+http://gogobox.eu:8000/live/Gary/Gary/5475.ts
+#EXTINF:-1,13th Street HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4203.ts
+#EXTINF:-1,|----{ Movies DE}----|
+http://gogobox.eu:8000/live/Gary/Gary/5459.ts
+#EXTINF:-1,Sky Select 1HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4191.ts
+#EXTINF:-1,Sky Select 2HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4192.ts
+#EXTINF:-1,Sky Select 3HD
+http://gogobox.eu:8000/live/Gary/Gary/4193.ts
+#EXTINF:-1,Sky select 4HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4194.ts
+#EXTINF:-1,Sky Select 5HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4195.ts
+#EXTINF:-1,Sky Select 6HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4196.ts
+#EXTINF:-1,Sky Select 7HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4197.ts
+#EXTINF:-1,Sky Select 8HD DE
+http://gogobox.eu:8000/live/Gary/Gary/4198.ts
+#EXTINF:-1,DE_SkySport1HD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/196.ts
+#EXTINF:-1,DE_SkySport2HD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/195.ts
+#EXTINF:-1,DE_SportDigital
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/846.ts
+#EXTINF:-1,DE_Sports+HD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/847.ts
+#EXTINF:-1,DE_SkySportNewHD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/774.ts
+#EXTINF:-1,DE_SkyBundesliga1HD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/201.ts
+#EXTINF:-1,DE_EuroSportHD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/778.ts
+#EXTINF:-1,DE_SkyEmotion
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/143.ts
+#EXTINF:-1,DE_SkyComedy
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/144.ts
+#EXTINF:-1,DE_SkyCinema24
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/145.ts
+#EXTINF:-1,DE_SkyCinema
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/147.ts
+#EXTINF:-1,DE_SkyAction
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/149.ts
+#EXTINF:-1,DE_SkyKrimi
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/849.ts
+#EXTINF:-1,DE_SkyNostalgie
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/848.ts
+#EXTINF:-1,DE_SKYMGM
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/777.ts
+#EXTINF:-1,DE_SkyAtlanticHD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/775.ts
+#EXTINF:-1,DE_skyhitshd
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/776.ts
+#EXTINF:-1,DE_AXN-Action
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/174.ts
+#EXTINF:-1,DE_NickJr
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/158.ts
+#EXTINF:-1,DE_KABEL1
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/572.ts
+#EXTINF:-1,DE_RTLHD
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/119.ts
+#EXTINF:-1,DE_RTL2
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/575.ts
+#EXTINF:-1,DE_PRO7
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/570.ts
+#EXTINF:-1,DE_VOX
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/574.ts
+#EXTINF:-1,DE_SAT1
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/568.ts
+#EXTINF:-1,DE_ARD1
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/632.ts
+#EXTINF:-1,DE_ZDF
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/631.ts
+#EXTINF:-1,DE_SYFY
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/746.ts
+#EXTINF:-1,DE_TNT-SERIE
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/745.ts
+#EXTINF:-1,DE_SKY-NATGEO
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/743.ts
+#EXTINF:-1,DE_NatGeoWildDE
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/159.ts
+#EXTINF:-1,DE_Discovery
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/744.ts
+#EXTINF:-1,DE_super_RtL
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/172.ts
+#EXTINF:-1,DE_DisneyCH
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/169.ts
+#EXTINF:-1,DE_DISNEYJUNIOR
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/573.ts
+#EXTINF:-1,DE_13thStreet
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/177.ts
+#EXTINF:-1,DE_N24
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/178.ts
+#EXTINF:-1,DE_FoxSerie
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/167.ts
+#EXTINF:-1,DE_SKYSELECT1
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/751.ts
+#EXTINF:-1,DE_SKYSELECT2
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/750.ts
+#EXTINF:-1,DE_SKYSELECT3
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/749.ts
+#EXTINF:-1,DE_SKYSELECT4
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/748.ts
+#EXTINF:-1,DE_SKYSELECT5
+http://abraiptv.no-ip.org:5475/live/GERMANY/GERMANY/747.ts
+#EXTINF:-1,---Sky-DE--------------------------------
+http://esiptv.tn:7500/live/ge108/ge108/889.ts
+#EXTINF:-1,ZDF
+http://esiptv.tn:7500/live/ge108/ge108/832.ts
+#EXTINF:-1,VOX
+http://esiptv.tn:7500/live/ge108/ge108/833.ts
+#EXTINF:-1,super-rtl
+http://esiptv.tn:7500/live/ge108/ge108/954.ts
+#EXTINF:-1,Sky-DMAX
+http://esiptv.tn:7500/live/ge108/ge108/822.ts
+#EXTINF:-1,Skyde-sport1
+http://esiptv.tn:7500/live/ge108/ge108/992.ts
+#EXTINF:-1,SkySport2HD
+http://esiptv.tn:7500/live/ge108/ge108/834.ts
+#EXTINF:-1,Sky-BundesLiga1HD
+http://esiptv.tn:7500/live/ge108/ge108/824.ts
+#EXTINF:-1,Sky-Cinema1HD
+http://esiptv.tn:7500/live/ge108/ge108/823.ts
+#EXTINF:-1,Sky007
+http://esiptv.tn:7500/live/ge108/ge108/986.ts
+#EXTINF:-1,Sky-nostalgie
+http://esiptv.tn:7500/live/ge108/ge108/991.ts
+#EXTINF:-1,Sky-krimi
+http://esiptv.tn:7500/live/ge108/ge108/988.ts
+#EXTINF:-1,Sky-emotion
+http://esiptv.tn:7500/live/ge108/ge108/989.ts
+#EXTINF:-1,Sky-atlantic
+http://esiptv.tn:7500/live/ge108/ge108/990.ts
+#EXTINF:-1,Sky-action
+http://esiptv.tn:7500/live/ge108/ge108/987.ts
+#EXTINF:-1,Sky-Comedy-HD
+http://esiptv.tn:7500/live/ge108/ge108/820.ts
+#EXTINF:-1,sky-cinemaplus1
+http://esiptv.tn:7500/live/ge108/ge108/981.ts
+#EXTINF:-1,sky-cinema24
+http://esiptv.tn:7500/live/ge108/ge108/982.ts
+#EXTINF:-1,Sky-Action-HD
+http://esiptv.tn:7500/live/ge108/ge108/825.ts
+#EXTINF:-1,skyhits
+http://esiptv.tn:7500/live/ge108/ge108/980.ts
+#EXTINF:-1,syfy-de
+http://esiptv.tn:7500/live/ge108/ge108/979.ts
+#EXTINF:-1,mgm
+http://esiptv.tn:7500/live/ge108/ge108/978.ts
+#EXTINF:-1,NdrHD
+http://esiptv.tn:7500/live/ge108/ge108/829.ts
+#EXTINF:-1,N24HD
+http://esiptv.tn:7500/live/ge108/ge108/830.ts
+#EXTINF:-1,N-TV
+http://esiptv.tn:7500/live/ge108/ge108/831.ts
+#EXTINF:-1,BlizzHD
+http://esiptv.tn:7500/live/ge108/ge108/828.ts
+#EXTINF:-1,Skyselect1HD
+http://esiptv.tn:7500/live/ge108/ge108/1002.ts
+#EXTINF:-1,Skyselect2HD
+http://esiptv.tn:7500/live/ge108/ge108/1001.ts
+#EXTINF:-1,Skyselect3HD
+http://esiptv.tn:7500/live/ge108/ge108/1000.ts
+#EXTINF:-1,Skyselect4HD
+http://esiptv.tn:7500/live/ge108/ge108/999.ts
+#EXTINF:-1,Skyselect5HD
+http://esiptv.tn:7500/live/ge108/ge108/998.ts
+#EXTINF:-1,SkySelect6HD
+http://esiptv.tn:7500/live/ge108/ge108/997.ts
+#EXTINF:-1,SkySelect7HD
+http://esiptv.tn:7500/live/ge108/ge108/996.ts
+#EXTINF:-1,SkySelect8HD
+http://esiptv.tn:7500/live/ge108/ge108/995.ts
+#EXTINF:-1,SkySelect9HD
+http://esiptv.tn:7500/live/ge108/ge108/994.ts
+#EXTINF:-1,---Digitalplus---------------------
+http://esiptv.tn:7500/live/ge108/ge108/1152.ts
+#EXTINF:-1,TELECINCOHD
+http://esiptv.tn:7500/live/ge108/ge108/1245.ts
+#EXTINF:-1,NATGEO
+http://esiptv.tn:7500/live/ge108/ge108/1246.ts
+#EXTINF:-1,LASEXTA
+http://esiptv.tn:7500/live/ge108/ge108/1247.ts
+#EXTINF:-1,LA2
+http://esiptv.tn:7500/live/ge108/ge108/1248.ts
+#EXTINF:-1,LA1
+http://esiptv.tn:7500/live/ge108/ge108/1249.ts
+#EXTINF:-1,HOLLYWOOD
+http://esiptv.tn:7500/live/ge108/ge108/1250.ts
+#EXTINF:-1,GALICIA
+http://esiptv.tn:7500/live/ge108/ge108/1251.ts
+#EXTINF:-1,EXTREMADURA
+http://esiptv.tn:7500/live/ge108/ge108/1252.ts
+#EXTINF:-1,CUATRO
+http://esiptv.tn:7500/live/ge108/ge108/1254.ts
+#EXTINF:-1,CAZAYPESCA
+http://esiptv.tn:7500/live/ge108/ge108/1255.ts
+#EXTINF:-1,CANALSERIE
+http://esiptv.tn:7500/live/ge108/ge108/1262.ts
+#EXTINF:-1,CANALLALIGA 2
+http://esiptv.tn:7500/live/ge108/ge108/1257.ts
+#EXTINF:-1,CANALLALIGA
+http://esiptv.tn:7500/live/ge108/ge108/1256.ts
+#EXTINF:-1,CANALFUTBOL
+http://esiptv.tn:7500/live/ge108/ge108/1263.ts
+#EXTINF:-1,CANALESTRENOS
+http://esiptv.tn:7500/live/ge108/ge108/1258.ts
+#EXTINF:-1,CANALDEPORTE
+http://esiptv.tn:7500/live/ge108/ge108/1264.ts
+#EXTINF:-1,CANALDCINE
+http://esiptv.tn:7500/live/ge108/ge108/1259.ts
+#EXTINF:-1,CANALCOMEDIA
+http://esiptv.tn:7500/live/ge108/ge108/1260.ts
+#EXTINF:-1,CANALACCION
+http://esiptv.tn:7500/live/ge108/ge108/1261.ts
+#EXTINF:-1,CALLE13
+http://esiptv.tn:7500/live/ge108/ge108/1265.ts
+#EXTINF:-1,BEINESPAÃ‘A
+http://esiptv.tn:7500/live/ge108/ge108/1266.ts
+#EXTINF:-1,ANTENASERIESHD
+http://esiptv.tn:7500/live/ge108/ge108/1267.ts
+#EXTINF:-1,ANTENA3HD
+http://esiptv.tn:7500/live/ge108/ge108/1268.ts
+#EXTINF:-1,* * * * * * * * * * Türkei * * * * * * * * * *
 http://ipsatpro.com:8000/live/9999999/1234567/2185.ts
 #EXTINF:-1,TR: Sinema 1 HD
 http://ipsatpro.com:8000/live/9999999/1234567/1974.ts
